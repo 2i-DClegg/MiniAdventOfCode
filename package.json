@@ -1,0 +1,21 @@
+{
+  "name": "miniadventofcode",
+  "version": "1.0.0",
+  "main": "dayFive.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2i-DClegg/MiniAdventOfCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2i-DClegg/MiniAdventOfCode/issues"
+  },
+  "homepage": "https://github.com/2i-DClegg/MiniAdventOfCode#readme",
+  "description": ""
+}

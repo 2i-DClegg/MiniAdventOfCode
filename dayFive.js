@@ -33,4 +33,3 @@ function scrabblePoints(inputString){
     return total;
 }
 
-console.log(scrabblePoints("Snowflake"))
